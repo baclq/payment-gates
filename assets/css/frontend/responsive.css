@@ -1,0 +1,74 @@
+@media screen and (max-width:1366px){
+	.slider-top img.slider-bg {
+		    height: 355px;
+	}
+}
+@media screen and (min-width:1200px){
+
+}
+
+@media screen and (max-width:1199px){
+	.slider-top img.slider-bg {
+		height: 380px;
+	}
+    .header-bar, .header-bar, #architecture, #result-aff, #reason-why, #step-aff, #contact-form, .title_footer, #copyright, #work-table, #question, #reason-bottom, .des-architecture{width: 95%; margin: auto;}
+}
+
+@media screen and (min-width:1024px) and (max-width:1199px){
+}
+
+@media screen and (max-width:1023px){
+}
+
+@media screen and (min-width:992px) and (max-width:1023px){
+
+}
+
+@media screen and (max-width:991px){
+    .header-bar{width: 100%; padding: 0px 20px;}
+    #content-slider h2{font-size: 25px;}
+    #content-slider h4{font-size: 18px; color: #fff; position: relative;}
+    #content-slider p{color: #919392; font-size: 14px;}
+    #content-slider .btn-registry{font-size: 14px; padding: 8px 20px; margin-top: 10px;}
+    .solution{display: none;}
+    .items-step h3, .items-step .des-step,#contact-form .form-inline label.radio-inline,input.form-control.short-name-form{width: 100%;}
+    #contact-form .form-inline label.radio-inline{margin-left: 0;}
+}
+
+@media screen and (min-width:768px) and (max-width:991px){
+}
+
+@media screen and (max-width:767px){
+    .form-inline .form-control {
+        width: 100%;
+    }
+    div#question{padding-bottom: 0;}
+    .contact-form {
+        margin-top: 20px;
+    }
+    .info-contact-footer {
+        text-align: center;
+    }
+}
+@media screen and (max-width:600px){
+}
+@media screen and (min-width:480px) and (max-width:767px){
+
+}
+
+@media screen and (max-width:479px){
+	#work-table .table>thead>tr>th {
+    padding: 5px;
+}
+#work-table {
+    width: 100%;
+}
+div#result-vendor {
+    padding: 10px;
+}.slider-top img.slider-bg {
+    height: 430px;
+}
+}
+@media screen and (max-width:240px){
+
+}

@@ -1,0 +1,30 @@
+#fb-template {
+  // display: none;
+}
+.form-actions {
+float: none !important;
+}
+.template-textarea-wrap {
+  display: block !important;
+}
+
+.form-rendered .build-wrap {
+  display: none;
+}
+
+.render-wrap, .render-code {
+  display: none;
+}
+
+.form-rendered .render-wrap, .form-rendered .render-code {
+  display: block;
+}
+
+#edit-form {
+  display: none;
+  float: right;
+}
+
+.form-rendered #edit-form {
+  display: block;
+}
